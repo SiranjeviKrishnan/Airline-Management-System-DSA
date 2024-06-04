@@ -80,8 +80,8 @@ This project implements an Airline Management System using a graph data structur
 The Airline Management System effectively demonstrates the use of graph data structures and various sorting algorithms. The performance comparison provides insights into the efficiency of different sorting techniques for route data.
 
 ## Future Enhancements
-1. Implement additional features such as shortest path finding using Kosaraju's Algorith with BFS.
-2. Enhance the UI/UX for better interaction.
+- [ ] Implement additional features such as shortest path finding using Kosaraju's Algorith with BFS.
+- [ ] Enhance the UI/UX for better interaction.
 
 ## Requirment Used
 - Python V3.*
